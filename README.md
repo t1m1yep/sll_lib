@@ -7,4 +7,4 @@
 ### MIT License
 ## How to use
 ### To use SLL_LIB you have to include the following header:
-```#include "sllib.h"```
+```#include "sllib.c"```
