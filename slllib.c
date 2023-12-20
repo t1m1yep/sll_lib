@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "slilib.h"
+#include "slllib.h"
 
 list *addElem(list *lst, int n) {
     list *newLst, *ptr;

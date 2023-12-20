@@ -2,8 +2,8 @@
 // Created by Timofey on 20.12.2023.
 //
 
-#ifndef SLI_LIB_SLILIB_H
-#define SLI_LIB_SLILIB_H
+#ifndef SLL_LIB_SLLLIB_H
+#define SLL_LIB_SLLLIB_H
 
 typedef struct list {
     __attribute__((unused)) int value;
@@ -18,4 +18,4 @@ list *init(int n);
 list *deleteElem(list *lst, list *root);
 void printList(list *root);
 
-#endif //SLI_LIB_SLILIB_H
+#endif //SLL_LIB_SLLLIB_H
